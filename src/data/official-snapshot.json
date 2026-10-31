@@ -1,0 +1,1043 @@
+{
+  "checkedOn": "2026-10-31",
+  "mapImageSha256": "1c85bbfc8e4dfb385dad50944fcd77983fcede8bbd9ca1080ac33c93baa8a9b8",
+  "sourceUrl": "https://khaokheow.zoothailand.or.th/map",
+  "mapApiUrl": "https://api.zoothailand.or.th/api/portal/map?lang=th",
+  "positionApiUrl": "https://api.zoothailand.or.th/api/portal/mapPosition?lang=th",
+  "categoryApiUrl": "https://api.zoothailand.or.th/api/portal/mapCategory?lang=th",
+  "map": {
+    "id": 1,
+    "image": {
+      "name": "KhaoKheow-3.png",
+      "path": "/uploads/map/20260720172537_e3be2264.webp",
+      "type": "webp",
+      "size": 243568
+    },
+    "sort": 1
+  },
+  "categories": [
+    {
+      "id": 1,
+      "sort": 1,
+      "color": "#1dae42",
+      "name": "พื้นที่สีเขียว"
+    },
+    {
+      "id": 2,
+      "sort": 2,
+      "color": "#fdb813",
+      "name": "พื้นที่ส่วนบริการ"
+    },
+    {
+      "id": 3,
+      "sort": 3,
+      "color": "#529fd1",
+      "name": "พื้นที่อนุรักษ์"
+    },
+    {
+      "id": 4,
+      "sort": 4,
+      "color": "#f285b5",
+      "name": "พื้นที่สีชมพู"
+    },
+    {
+      "id": 5,
+      "sort": 5,
+      "color": "#2e3d8f",
+      "name": "ห้องน้ำ"
+    },
+    {
+      "id": 6,
+      "sort": 6,
+      "color": "#8bc541",
+      "name": "อาคาร, ศูนย์การเรียนรู้"
+    },
+    {
+      "id": 32,
+      "sort": 7,
+      "color": "#2967e3a8",
+      "name": "ร้านอาหาร เครื่องดื่ม"
+    },
+    {
+      "id": 33,
+      "sort": 8,
+      "color": "#ff0000ba",
+      "name": "ของที่ระลึก"
+    }
+  ],
+  "positions": [
+    {
+      "id": 1,
+      "name": "อาคารจำหน่ายบัตร",
+      "mapCategoryId": 2,
+      "x": 11.53,
+      "y": 69.34,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 2,
+      "name": "กระทิง",
+      "mapCategoryId": 4,
+      "x": 68.23,
+      "y": 46.36,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 3,
+      "name": "วัวแดง",
+      "mapCategoryId": 4,
+      "x": 61.86,
+      "y": 45.87,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 4,
+      "name": "กวางป่า",
+      "mapCategoryId": 4,
+      "x": 72.41,
+      "y": 51.04,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 5,
+      "name": "สมเสร็จ",
+      "mapCategoryId": 4,
+      "x": 78.17,
+      "y": 57.35,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 6,
+      "name": "ชิมแปนซี",
+      "mapCategoryId": 4,
+      "x": 81.23,
+      "y": 66.89,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 7,
+      "name": "อุรังอุตัง",
+      "mapCategoryId": 4,
+      "x": 81.45,
+      "y": 79.39,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 8,
+      "name": "ม้าแคระอาร์เจนตินา",
+      "mapCategoryId": 4,
+      "x": 58.1,
+      "y": 64.63,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 9,
+      "name": "แพนด้าแดง",
+      "mapCategoryId": 4,
+      "x": 68.07,
+      "y": 62.07,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 10,
+      "name": "ฮิปโปโปเตมัสแคระ",
+      "mapCategoryId": 4,
+      "x": 72.79,
+      "y": 64.04,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 11,
+      "name": "โคอาล่า",
+      "mapCategoryId": 4,
+      "x": 76.27,
+      "y": 70.53,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 12,
+      "name": "วัลลาบี",
+      "mapCategoryId": 4,
+      "x": 76.72,
+      "y": 76.21,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 13,
+      "name": "นกกระตั้ว",
+      "mapCategoryId": 4,
+      "x": 70.76,
+      "y": 74.27,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 14,
+      "name": "จิงโจ้แดง",
+      "mapCategoryId": 4,
+      "x": 73.12,
+      "y": 79.29,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 15,
+      "name": "วอมแบต",
+      "mapCategoryId": 4,
+      "x": 67.09,
+      "y": 82.83,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 16,
+      "name": "จระเข้น้ำเค็ม",
+      "mapCategoryId": 4,
+      "x": 74.24,
+      "y": 84.5,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 17,
+      "name": "นกคาสโซวารี่",
+      "mapCategoryId": 4,
+      "x": 69.32,
+      "y": 86.47,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 18,
+      "name": "หุบเสือป่า",
+      "mapCategoryId": 4,
+      "x": 45.25,
+      "y": 84.7,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 19,
+      "name": "ศูนย์เรียนรู้เศรษฐกิจพอเพียง",
+      "mapCategoryId": 6,
+      "x": 64.79,
+      "y": 88.93,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 20,
+      "name": "พาเหรดนกกาบบัว",
+      "mapCategoryId": 4,
+      "x": 54.96,
+      "y": 73.88,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 21,
+      "name": "สวนพฤกษศาสตร์ฝูงนกกาบบัว",
+      "mapCategoryId": 4,
+      "x": 63.06,
+      "y": 74.61,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 22,
+      "name": "โภชนาการสัตว์",
+      "mapCategoryId": 3,
+      "x": 36,
+      "y": 85.78,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 23,
+      "name": "สำนักงานอนุรักษ์วิจัย",
+      "mapCategoryId": 3,
+      "x": 40.99,
+      "y": 93.06,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 24,
+      "name": "โรงพยาบาลสัตว์ป่า",
+      "mapCategoryId": 3,
+      "x": 39.35,
+      "y": 87.26,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 25,
+      "name": "สำนักงานฝ่ายบำรุงสัตว์",
+      "mapCategoryId": 3,
+      "x": 34.3,
+      "y": 92.76,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 26,
+      "name": "เขตบ้านพักพนักงาน",
+      "mapCategoryId": 3,
+      "x": 37.32,
+      "y": 96.21,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 27,
+      "name": "ศูนย์เพาะขยายพันธุ์เสือลายเมฆ",
+      "mapCategoryId": 3,
+      "x": 65.51,
+      "y": 95.52,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 28,
+      "name": "หมีหมา",
+      "mapCategoryId": 1,
+      "x": 12.92,
+      "y": 18.13,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 29,
+      "name": "หมีควาย",
+      "mapCategoryId": 1,
+      "x": 12.61,
+      "y": 22.99,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 30,
+      "name": "เกาะลีเมอร์",
+      "mapCategoryId": 1,
+      "x": 7.8,
+      "y": 39.84,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 31,
+      "name": "แรดขาว",
+      "mapCategoryId": 1,
+      "x": 13.9,
+      "y": 37.58,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 32,
+      "name": "นกฟลามิงโก้",
+      "mapCategoryId": 1,
+      "x": 16.26,
+      "y": 32.27,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 33,
+      "name": "สิงโตขาว",
+      "mapCategoryId": 1,
+      "x": 20.33,
+      "y": 37.68,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 34,
+      "name": "ม้าลาย",
+      "mapCategoryId": 1,
+      "x": 16.84,
+      "y": 40.99,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 35,
+      "name": "ออริกซ์",
+      "mapCategoryId": 1,
+      "x": 24.13,
+      "y": 34.13,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 36,
+      "name": "นกกระจอกเทศ",
+      "mapCategoryId": 1,
+      "x": 27.74,
+      "y": 32.07,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 37,
+      "name": "บลูไวลเดอร์บีส",
+      "mapCategoryId": 1,
+      "x": 32.59,
+      "y": 34.43,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 38,
+      "name": "ยีราฟ",
+      "mapCategoryId": 1,
+      "x": 28.59,
+      "y": 39.84,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 39,
+      "name": "เมียร์แคท",
+      "mapCategoryId": 1,
+      "x": 24.79,
+      "y": 40.82,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 40,
+      "name": "ฮิปโปโปเตมัสแคระ",
+      "mapCategoryId": 1,
+      "x": 28.4,
+      "y": 48.4,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 41,
+      "name": "ฮิปโปโปเตมัส",
+      "mapCategoryId": 1,
+      "x": 27.87,
+      "y": 53.42,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 42,
+      "name": "สวนละมั่ง",
+      "mapCategoryId": 1,
+      "x": 17.71,
+      "y": 60.4,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 43,
+      "name": "ชะนี",
+      "mapCategoryId": 1,
+      "x": 25.97,
+      "y": 60.3,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 44,
+      "name": "ค่าง 5 สี",
+      "mapCategoryId": 1,
+      "x": 43.62,
+      "y": 35.63,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 45,
+      "name": "คาปิบารา",
+      "mapCategoryId": 1,
+      "x": 32.59,
+      "y": 55.58,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 46,
+      "name": "สลอธ",
+      "mapCategoryId": 1,
+      "x": 32,
+      "y": 45.55,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 47,
+      "name": "เต่า",
+      "mapCategoryId": 1,
+      "x": 34.82,
+      "y": 46.43,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 48,
+      "name": "สิงโต",
+      "mapCategoryId": 1,
+      "x": 29.28,
+      "y": 22.81,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 49,
+      "name": "ไฮยีน่า",
+      "mapCategoryId": 1,
+      "x": 33.53,
+      "y": 25.93,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 50,
+      "name": "เสือโคร่งอินโดจีน",
+      "mapCategoryId": 1,
+      "x": 39.19,
+      "y": 28.45,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 51,
+      "name": "ค่าง 5 สี",
+      "mapCategoryId": 1,
+      "x": 28.2,
+      "y": 59.51,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 52,
+      "name": "เลียงผาเหนือ",
+      "mapCategoryId": 1,
+      "x": 46.05,
+      "y": 39.99,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 53,
+      "name": "แพะภูเขา",
+      "mapCategoryId": 1,
+      "x": 50.22,
+      "y": 40.72,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 54,
+      "name": "ศูนย์การเรียนรู้ช้าง",
+      "mapCategoryId": 1,
+      "x": 55.31,
+      "y": 43.28,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 55,
+      "name": "หมีขอ",
+      "mapCategoryId": 1,
+      "x": 48.14,
+      "y": 52.53,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 56,
+      "name": "จระเข้ ตะโขง",
+      "mapCategoryId": 1,
+      "x": 47.09,
+      "y": 56.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 57,
+      "name": "เก้ง",
+      "mapCategoryId": 1,
+      "x": 51.22,
+      "y": 55.38,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 58,
+      "name": "สมเสร็จ",
+      "mapCategoryId": 1,
+      "x": 50.5,
+      "y": 50.56,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 59,
+      "name": "ส่วนแสดงพาเหรด เพนกวิน",
+      "mapCategoryId": 1,
+      "x": 36.44,
+      "y": 53.55,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 60,
+      "name": "กรงนกใหญ่",
+      "mapCategoryId": 1,
+      "x": 45.25,
+      "y": 31.43,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 61,
+      "name": "พิพิธภัณฑ์สัตว์ภาคตะวันออก",
+      "mapCategoryId": 6,
+      "x": 29.66,
+      "y": 61.69,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 62,
+      "name": "รถกอล์ฟเช่า",
+      "mapCategoryId": 1,
+      "x": 21.64,
+      "y": 59.51,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 63,
+      "name": "ศูนย์อาหาร",
+      "mapCategoryId": 32,
+      "x": 36.6,
+      "y": 62.36,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 64,
+      "name": "อาคารสัตว์เลื้อยคลาน",
+      "mapCategoryId": 6,
+      "x": 36.96,
+      "y": 48.41,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 65,
+      "name": "จุดจอดรถ P1",
+      "mapCategoryId": 2,
+      "x": 4.06,
+      "y": 69.29,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 66,
+      "name": "จุดจอดรถ P2",
+      "mapCategoryId": 2,
+      "x": 24.15,
+      "y": 70.27,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 67,
+      "name": "จุดจอดรถ P3",
+      "mapCategoryId": 2,
+      "x": 46.53,
+      "y": 63.41,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 68,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 18.23,
+      "y": 67.1,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 69,
+      "name": "ลานแสดงอเนกประสงค์",
+      "mapCategoryId": 6,
+      "x": 45.97,
+      "y": 47.12,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 70,
+      "name": "สำนักงานสวนสัตว์",
+      "mapCategoryId": 6,
+      "x": 13.44,
+      "y": 53.91,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 71,
+      "name": "ที่พักศูนย์ฝึกอบรม KK Lodge",
+      "mapCategoryId": 6,
+      "x": 80.34,
+      "y": 47.71,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 72,
+      "name": "สำนักงานที่พักศูนย์ฝึกอบรม KK Lodge",
+      "mapCategoryId": 6,
+      "x": 57.15,
+      "y": 57.91,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 73,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 6.37,
+      "y": 69.11,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 74,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 43.62,
+      "y": 67.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 75,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 24.39,
+      "y": 66.2,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 76,
+      "name": "ประชาสัมพันธ์",
+      "mapCategoryId": 2,
+      "x": 31.45,
+      "y": 65.51,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 352,
+      "name": "ร้านอาหาร",
+      "mapCategoryId": 32,
+      "x": 19.53,
+      "y": 48.08,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 353,
+      "name": "ร้านอาหาร",
+      "mapCategoryId": 32,
+      "x": 33.35,
+      "y": 53.04,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 354,
+      "name": "ร้านอาหาร",
+      "mapCategoryId": 32,
+      "x": 80.28,
+      "y": 73.79,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 355,
+      "name": "ร้านอาหาร",
+      "mapCategoryId": 32,
+      "x": 62.96,
+      "y": 59.24,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 356,
+      "name": "ร้านอาหาร",
+      "mapCategoryId": 32,
+      "x": 53.62,
+      "y": 82.12,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 357,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 19.28,
+      "y": 58.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 358,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 16.86,
+      "y": 48.8,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 359,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 10.91,
+      "y": 27.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 360,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 28.2,
+      "y": 56.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 361,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 35.32,
+      "y": 35.73,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 362,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 40.32,
+      "y": 40.25,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 363,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 44.64,
+      "y": 46.88,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 364,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 82.19,
+      "y": 74.53,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 365,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 64.01,
+      "y": 62.48,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 366,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 51.73,
+      "y": 49.9,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 367,
+      "name": "ห้องน้ำ",
+      "mapCategoryId": 5,
+      "x": 44.4,
+      "y": 88.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 368,
+      "name": "ร้านเครื่องดื่ม",
+      "mapCategoryId": 32,
+      "x": 34.12,
+      "y": 49.08,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 369,
+      "name": "ร้านเครื่องดื่ม",
+      "mapCategoryId": 32,
+      "x": 43.17,
+      "y": 63.86,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 370,
+      "name": "ร้านเครื่องดื่ม",
+      "mapCategoryId": 32,
+      "x": 54.31,
+      "y": 54.66,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 371,
+      "name": "จุดจอดรถ P4",
+      "mapCategoryId": 2,
+      "x": 54.62,
+      "y": 51.04,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 372,
+      "name": "7-11",
+      "mapCategoryId": 32,
+      "x": 35.35,
+      "y": 70.92,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 373,
+      "name": "ของที่ระลึก",
+      "mapCategoryId": 33,
+      "x": 41.43,
+      "y": 67.58,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": 374,
+      "name": "ของที่ระลึก",
+      "mapCategoryId": 33,
+      "x": 33.63,
+      "y": 73.46,
+      "lat": null,
+      "lng": null
+    }
+  ],
+  "assets": [
+    {
+      "file": "src/assets/official/zoo-map.webp",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/20260720172537_e3be2264.webp",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "แผนที่ปัจจุบันที่หน้าเว็บทางการเรียกใช้",
+      "originalName": "KhaoKheow-3.png",
+      "bytes": 243568,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/giraffe.webp",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/20260720193832_5f58b212.webp",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "ยีราฟ",
+      "originalName": "91866723_2896590183751742_5938451894912417792_n.webp",
+      "bytes": 20424,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/elephant.jpg",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/seed-pos-054-image.jpg",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "ศูนย์การเรียนรู้ช้าง",
+      "originalName": "ช้าง-1.jpg",
+      "bytes": 658811,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/hippo.webp",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/20260720193044_94a0fad3.webp",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "ฮิปโปโปเตมัส",
+      "originalName": "ฮิปโป.webp",
+      "bytes": 27460,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/penguin.jpg",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/seed-pos-059-image.jpg",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "ส่วนแสดงพาเหรด เพนกวิน",
+      "originalName": "เพนกวิน-1.jpg",
+      "bytes": 578137,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/aviary.jpg",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/seed-pos-060-image.jpg",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "กรงนกใหญ่",
+      "originalName": "กรงนกใหญ่-1.jpg",
+      "bytes": 749628,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/capybara.jpg",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/seed-pos-045-image.jpg",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "คาปิบารา",
+      "originalName": "คาปิบาร่า-1.jpg",
+      "bytes": 97246,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    },
+    {
+      "file": "src/assets/official/pygmy-hippo.jpg",
+      "sourceUrl": "https://api.zoothailand.or.th/uploads/map/seed-pos-010-image.jpg",
+      "sourcePage": "https://khaokheow.zoothailand.or.th/map",
+      "subject": "ฮิปโปโปเตมัสแคระ",
+      "originalName": "ฮิปโปโปเตมัส - 1.jpg",
+      "bytes": 373482,
+      "permission": "user_confirmed_zoo_permission_for_prototype",
+      "checkedOn": "2026-10-31"
+    }
+  ]
+}
